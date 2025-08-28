@@ -1,2 +1,3 @@
 # cs50
 this is the repo where storing all the codes of cs50 python class
+Author - Akshaykumar Gaikwad
